@@ -1,4 +1,4 @@
-# Make Your Rails Console Awesome
+# Make Your Rails Console Pretty
 
 This gem was inspired by [awesome_rails_console](https://github.com/ascendbruce/awesome_rails_console), [Using pry in production](https://bugsnag.com/blog/production-pry), [jazz_hands](https://github.com/nixme/jazz_hands) and [jazz_fingers](https://github.com/plribeiro3000/jazz_fingers).
 
